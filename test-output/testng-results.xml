@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="37507" started-at="2016-06-30T14:31:57Z" finished-at="2016-06-30T14:32:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="37507" started-at="2016-06-30T14:31:57Z" finished-at="2016-06-30T14:32:35Z">
+      <class name="com.qait.automation.github.NewTest">
+        <test-method status="PASS" signature="init_Pages()[pri:0, instance:com.qait.automation.github.NewTest@3ba15b82]" name="init_Pages" is-config="true" duration-ms="9298" started-at="2016-06-30T20:01:57Z" finished-at="2016-06-30T20:02:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init_Pages -->
+        <test-method status="PASS" signature="Test01_Verify_User_Is_Able_To_Login_Into_Github()[pri:0, instance:com.qait.automation.github.NewTest@3ba15b82]" name="Test01_Verify_User_Is_Able_To_Login_Into_Github" duration-ms="2384" started-at="2016-06-30T20:02:06Z" finished-at="2016-06-30T20:02:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test01_Verify_User_Is_Able_To_Login_Into_Github -->
+        <test-method status="PASS" signature="Test02_Verify_User_Is_Able_to_Create_New_Repositoy()[pri:0, instance:com.qait.automation.github.NewTest@3ba15b82]" name="Test02_Verify_User_Is_Able_to_Create_New_Repositoy" duration-ms="1415" started-at="2016-06-30T20:02:09Z" finished-at="2016-06-30T20:02:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test02_Verify_User_Is_Able_to_Create_New_Repositoy -->
+        <test-method status="PASS" signature="Test03_Verify_User_Has_Created_Repository()[pri:0, instance:com.qait.automation.github.NewTest@3ba15b82]" name="Test03_Verify_User_Has_Created_Repository" duration-ms="2820" started-at="2016-06-30T20:02:10Z" finished-at="2016-06-30T20:02:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test03_Verify_User_Has_Created_Repository -->
+        <test-method status="PASS" signature="Test04_User_Recieved_Url_Of_Repository()[pri:0, instance:com.qait.automation.github.NewTest@3ba15b82]" name="Test04_User_Recieved_Url_Of_Repository" duration-ms="19" started-at="2016-06-30T20:02:13Z" finished-at="2016-06-30T20:02:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test04_User_Recieved_Url_Of_Repository -->
+        <test-method status="PASS" signature="Test05_Cloning_Is_Done_On_Local_Repository()[pri:0, instance:com.qait.automation.github.NewTest@3ba15b82]" name="Test05_Cloning_Is_Done_On_Local_Repository" duration-ms="7387" started-at="2016-06-30T20:02:13Z" finished-at="2016-06-30T20:02:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test05_Cloning_Is_Done_On_Local_Repository -->
+        <test-method status="PASS" signature="Test06_Verify_File_Has_Been_Pushed()[pri:0, instance:com.qait.automation.github.NewTest@3ba15b82]" name="Test06_Verify_File_Has_Been_Pushed" duration-ms="6270" started-at="2016-06-30T20:02:21Z" finished-at="2016-06-30T20:02:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test06_Verify_File_Has_Been_Pushed -->
+        <test-method status="PASS" signature="Test07_Readme_Created_And_pulled()[pri:0, instance:com.qait.automation.github.NewTest@3ba15b82]" name="Test07_Readme_Created_And_pulled" duration-ms="4226" started-at="2016-06-30T20:02:27Z" finished-at="2016-06-30T20:02:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test07_Readme_Created_And_pulled -->
+        <test-method status="PASS" signature="Test08_Verify_Readme_pulled()[pri:0, instance:com.qait.automation.github.NewTest@3ba15b82]" name="Test08_Verify_Readme_pulled" duration-ms="3648" started-at="2016-06-30T20:02:31Z" finished-at="2016-06-30T20:02:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test08_Verify_Readme_pulled -->
+        <test-method status="PASS" signature="Close_Browser()[pri:0, instance:com.qait.automation.github.NewTest@3ba15b82]" name="Close_Browser" is-config="true" duration-ms="8" started-at="2016-06-30T20:02:35Z" finished-at="2016-06-30T20:02:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close_Browser -->
+      </class> <!-- com.qait.automation.github.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
